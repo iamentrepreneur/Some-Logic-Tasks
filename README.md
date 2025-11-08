@@ -22,7 +22,7 @@
 composer install
 docker compose up -d
 
-set your credentials at index.php
+set your credentials at app/config.php
 TOKEN and SECRET
 
 127.0.0.1::8080
